@@ -1,0 +1,18 @@
+https://www.kaggle.com/filippoo/deep-learning-az-ann
+https://www.kaggle.com/nasirislamsujan/bank-customer-churn-prediction - not NN
+
+https://www.kaggle.com/javapocalypse/customer-churn-modelling-using-ann-86-accuracy - 1 hidden layer
+
+https://www.kaggle.com/vinicius150987/churn-modelling-ann -83% and 3 layers
+
+https://www.kaggle.com/lauriermantel/using-basic-neural-networks-to-predict-churn - 2 layers
+
+https://www.kaggle.com/malmason/basic-ann-using-keras - 2 layers 
+
+https://www.kaggle.com/vgautam99/churn-modelling-basic-ann - 1 layer with propagation
+
+https://www.kaggle.com/gunnep/dnn-simple-test - 2 hidden layers
+
+
+implement a model, then try tweaking code.
+sunday - reasons behind choosing layers

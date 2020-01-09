@@ -1,0 +1,15 @@
+standard scalar..
+mean , deviation ... appluy the smae on val and test
+
+feature eng...
+depends on output accuracy low
+
+weighted observations or up sample to create equal bias between outputs
+
+underfitting
+train acc is very low
+training loss is high 
+
+overfitting
+val acc is very low than training accuracy
+val loss is high than training
